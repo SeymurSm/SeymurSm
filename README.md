@@ -56,7 +56,7 @@
 
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=SeymurSm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="SeymurSm's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihadenes&theme=tokyonight" width="37%" alt="nihadenes's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeymurSm&theme=tokyonight" width="37%" alt="SeymurSm's Top Languages">
 
 
 <br>
