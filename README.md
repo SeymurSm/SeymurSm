@@ -20,14 +20,14 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Software Engineer;
-- 🔭 I’m currently working on EzPass :grin:
-- 🌱 I’m currently mastering Python.
+- 🔭 I’m currently working on QrScanner :grin:
+- 🌱 I’m currently mastering Kotlin.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the boundaries!
-- ⚡ Fun fact: I love working by myself.
+<!-- - ⚡ Fun fact: I love working by myself. -->
 
 <br>
 
@@ -70,5 +70,5 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-[twitter]: https://twitter.com/NihadSen
-[linkedin]: https://www.linkedin.com/in/nihad-enes-%C5%9Fen-166651211/
+[twitter]: https://twitter.com/SeymurSm
+[linkedin]: https://www.linkedin.com/in/seymur-mammadli/
